@@ -1,0 +1,6 @@
+C:\Users\varga\Desktop\EjercicioClase7\EjercicioClase7\bin\Debug\EjercicioClase7.exe.config
+C:\Users\varga\Desktop\EjercicioClase7\EjercicioClase7\obj\Debug\EjercicioClase7.csprojResolveAssemblyReference.cache
+C:\Users\varga\Desktop\EjercicioClase7\EjercicioClase7\bin\Debug\EjercicioClase7.exe
+C:\Users\varga\Desktop\EjercicioClase7\EjercicioClase7\bin\Debug\EjercicioClase7.pdb
+C:\Users\varga\Desktop\EjercicioClase7\EjercicioClase7\obj\Debug\EjercicioClase7.exe
+C:\Users\varga\Desktop\EjercicioClase7\EjercicioClase7\obj\Debug\EjercicioClase7.pdb
